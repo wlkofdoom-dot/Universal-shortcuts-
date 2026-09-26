@@ -1,0 +1,238 @@
+01a - Windows PowerShell powershell.exe
+02a - Windows PowerShell powershell.exe
+03 - Computer Management compmgmt.msc
+04 - Disk Management diskmgmt.msc
+04-1 - NetworkStatus explorer.exe ms-settings:network-status
+05 - Device Manager devmgmt.msc
+06 - SystemAbout explorer.exe ms-settings:about
+07 - Event Viewer eventvwr.msc
+08 - PowerAndSleep explorer.exe ms-settings:powersleep
+09 - Mobility Center mblctr.exe
+10 - AppsAndFeatures explorer.exe ms-settings:appsfeatures
+Active Directory Sites and Services dsa.msc
+ADAM Install adaminstall.exe
+Add Hardware Wizard hdwwiz.exe
+Administrative Tools control.exe admintools
+ADSIEdit adsiedit.msc
+Advanced User Accounts netplwiz.exe
+All Control Panel Items / God Mode View explorer.exe shell:::{ED7BA470-8E54-465E-825C-99712043E01C}
+All Installed Apps explorer.exe shell:AppsFolder
+All Users Programs Folder explorer.exe shell:common programs
+Application Verifier (WOW) appverif.exe
+Application Verifier (X64) appverif.exe
+Apps - Documents local explorer.exe shell:Apps
+Apps explorer.exe shell:AppsFolder
+AppsFolder explorer.exe shell:AppsFolder
+Authorization Manager azman.msc
+Bluetooth File Transfer fsquirt.exe
+Brave Apps - All Users explorer.exe "shell:common programs\Brave Apps"
+Brave Apps - Current User explorer.exe "shell:programs\Brave Apps"
+buttons explorer.exe
+cacherelocator cacherelocator.exe
+Calculator calc.exe
+Certificates - Current User certmgr.msc
+Character Map charmap.exe
+Chromium Apps - All Users explorer.exe "shell:common programs\Chromium Apps"
+Chromium Apps - Current User explorer.exe "shell:programs\Chromium Apps"
+Classic Control Panel control.exe
+Command Prompt cmd.exe
+Color Management colorcpl.exe
+Component Services comexp.msc
+Computer Management compmgmt.msc
+Console1 console.exe
+Copilot "C:\Program Files\WindowsApps\Microsoft.Copilot_1.0.0.0_x64__8wekyb3d8bbwe\Copilot.exe"
+Credential Backup and Restore credwiz.exe
+Current User AppData Local explorer.exe shell:Local AppData
+Current User AppData Roaming explorer.exe shell:AppData
+Current User Profile explorer.exe %USERPROFILE%
+Current User Programs Folder explorer.exe shell:programs
+Current User Start Menu explorer.exe shell:start menu
+Current User Startup Folder explorer.exe shell:startup
+Date and Time control.exe timedate.cpl
+Defragment and Optimize Drives dfrgui.exe
+Desktop explorer.exe shell:Desktop
+Device Manager devmgmt.msc
+DirectX Diagnostic Tool dxdiag.exe
+Disk Cleanup cleanmgr.exe
+Disk Management diskmgmt.msc
+DiskPart diskpart.exe
+Display Appearance / Color control.exe color
+Display Properties control.exe desktop
+Documentation for Desktop Apps explorer.exe
+Documentation for UWP Apps explorer.exe
+Documentation explorer.exe
+Documents explorer.exe shell:Personal
+Doomed explorer.exe
+Downloads explorer.exe shell:Downloads
+Driver Verifier Manager verifier.exe
+Event Viewer eventvwr.msc
+File Explorer explorer.exe
+File Signature Verification sigverif.exe
+Folder Options control.exe folders
+Fonts control.exe fonts
+Game Controllers joy.cpl
+GOD.{ED7BA470-8E54-465E-825C-99712043E01C} explorer.exe shell:::{ED7BA470-8E54-465E-825C-99712043E01C}
+GodMode.{ED7BA470-8E54-465E-825C-99712043E01C} explorer.exe shell:::{ED7BA470-8E54-465E-825C-99712043E01C}
+Google Chrome Apps - All Users explorer.exe "shell:common programs\Chrome Apps"
+Google Chrome Apps - Current User explorer.exe "shell:programs\Chrome Apps"
+Google Docs "C:\Program Files\Google\Chrome\Application\chrome.exe" --app=https://docs.google.com
+Google Gemini Search "C:\Program Files\Google\Chrome\Application\chrome.exe" --app=https://gemini.google.com
+Google Gemini "C:\Program Files\Google\Chrome\Application\chrome.exe" --app=https://gemini.google.com
+Google Keep "C:\Program Files\Google\Chrome\Application\chrome.exe" --app=https://keep.google.com
+Google Password Manager "C:\Program Files\Google\Chrome\Application\chrome.exe" --app=chrome://password-manager
+Google Sheets "C:\Program Files\Google\Chrome\Application\chrome.exe" --app=https://sheets.google.com
+Google Slides "C:\Program Files\Google\Chrome\Application\chrome.exe" --app=https://slides.google.com
+Graphics Settings explorer.exe ms-settings:display-advancedgraphics
+Help File winhlp32.exe
+Help winhlp32.exe
+Home Assistant "C:\Program Files\Google\Chrome\Application\chrome.exe" --app=http://homeassistant.local:8123
+Home Drive explorer.exe %HOMEDRIVE%
+Hyper-V Manager virtmgmt.msc
+IIS Client Manager iis.msc
+IIS Manager inetmgr.exe
+Internet Properties control.exe inetcpl.cpl
+Inventory Data Collector invcol.exe
+iSCSI Initiator iscsicpl.exe
+Keyboard Properties control.exe keyboard
+Live Captions LiveCaptions.exe
+Local Group Policy Editor gpedit.msc
+Local Security Policy secpol.msc
+Local Users and Groups lusrmgr.msc
+Magnifier magnify.exe
+Malicious Software Removal Tool mrt.exe
+Memory Diagnostics Tool mdsched.exe
+Microsoft Edge Apps - All Users explorer.exe "shell:common programs\Edge Apps"
+Microsoft Edge Apps - Current User explorer.exe "shell:programs\Edge Apps"
+Microsoft Edge msedge.exe
+Microsoft Management Console - Author Mode mmc.exe /a
+Microsoft Management Console mmc.exe
+Mouse Properties control.exe mouse
+MSIX system information msix.exe
+MultiPoint Dashboard WmsDashboard.exe
+MultiPoint Log Collector WmsLogCollector.exe
+MultiPoint Manager WmsAdmin.exe
+Narrator narrator.exe
+Network and Internet explorer.exe ms-settings:network-status
+Network Connections control.exe ncpa.cpl
+NetworkConnectionsShell explorer.exe shell:::{7007ACC7-3202-11D1-AAD2-00805FC1270E}
+new cpu installs explorer.exe
+ninite "C:\Program Files\Google\Chrome\Application\chrome.exe" https://ninite.com
+Notepad notepad.exe
+NTLite on the Web "C:\Program Files\Google\Chrome\Application\chrome.exe" https://www.ntlite.com
+ODBC Data Sources (32-bit) %SystemRoot%\syswow64\odbcad32.exe
+ODBC Data Sources (64-bit) %SystemRoot%\system32\odbcad32.exe
+ODBC Data Sources odbcad32.exe
+On-Screen Keyboard osk.exe
+Optional Features optionalfeatures.exe
+Other useful network utilities explorer.exe
+Password Manager "C:\Program Files\Google\Chrome\Application\chrome.exe" --app=chrome://password-manager
+Performance Monitor perfmon.msc
+Phone and Modem telephon.cpl
+Phone.bat Phone.bat
+Plex.web "C:\Program Files\Google\Chrome\Application\chrome.exe" --app=https://app.plex.tv
+Power Options control.exe powercfg.cpl
+PowerShell powershell.exe
+Print Management printmanagement.msc
+Printer Migration printbrmui.exe
+Printers control.exe printers
+Private Character Editor eudcedit.exe
+Program Files explorer.exe %PROGRAMFILES%
+Programs BIG explorer.exe shell:Programs
+Programs SMALL explorer.exe shell:Programs
+Programs and Features control.exe appwiz.cpl
+Programs explorer.exe shell:Programs
+PuTTY Web Site "C:\Program Files\Google\Chrome\Application\chrome.exe" https://www.putty.org
+RecoveryDrive recoverydrive.exe
+Recycle Bin explorer.exe shell:::{645FF040-5081-101B-9F08-00AA002F954E}
+Regional and Language Options control.exe international
+Registry Editor regedit.exe
+Release Notes notepad.exe
+Remote Assistance msra.exe
+Remote Desktop Connection mstsc.exe
+Resource Monitor resmon.exe
+Run explorer.exe shell:::{2559a1f3-21d7-11d4-bdaf-00c04f60b9f0}
+Sample Desktop Apps explorer.exe
+Sample UWP Apps explorer.exe
+Security Configuration Management secpol.msc
+Services services.msc
+Services For Network File System nfsmgmt.msc
+Shared Folders fsmgmt.msc
+Shows Desktop explorer.exe shell:::{3080F90D-D7AD-11D9-BD98-0000947B0257}
+Snipping Tool snippingtool.exe
+Sound control.exe mmsys.cpl
+SQL Server Client Network Utility cliconfg.exe
+Start-up explorer.exe shell:startup
+Startup Apps explorer.exe ms-settings:startupapps
+Steps Recorder psr.exe
+Stuff explorer.exe
+Sync Center mobsync.exe
+SYSTEM explorer.exe
+System Configuration msconfig.exe
+System Information msinfo32.exe
+systeminfo systeminfo.exe
+System Properties control.exe sysdm.cpl
+System Restore rstrui.exe
+tabcal tabcal.exe
+Task Manager taskmgr.exe
+Task Scheduler taskschd.msc
+Temporary Files explorer.exe %TEMP%
+Terminal wt.exe
+This PC explorer.exe shell:::{20D04FE0-3AEA-1069-A2D8-08002B30309D}
+Tools for Desktop Apps explorer.exe
+Tools for UWP Apps explorer.exe
+Tools explorer.exe
+udm=14 the disenshittification Konami code "C:\Program Files\Google\Chrome\Application\chrome.exe" "https://www.google.com/search?udm=14"
+Uninstall control.exe appwiz.cpl
+unsort explorer.exe
+Useful Network Software explorer.exe
+Utility Manager utilman.exe
+VideoLAN Website "C:\Program Files\Google\Chrome\Application\chrome.exe" https://www.videolan.org
+VoiceAccess VoiceAccess.exe
+Windows Defender Firewall with Advanced Security wf.msc
+What is new in the latest version notepad.exe
+Window Switcher explorer.exe shell:::{3080F90E-D7AD-11D9-BD98-0000947B0257}
+Windows App Cert Kit appcertui.exe
+Windows Control Panel control.exe
+Windows Features optionalfeatures.exe
+Windows Folder explorer.exe %WINDIR%
+Windows Media Player Legacy wmplayer.exe
+Windows Memory Diagnostic mdsched.exe
+Windows Mobility Center mblctr.exe
+Windows PowerShell (x86) %SystemRoot%\syswow64\WindowsPowerShell\v1.0\powershell.exe
+Windows PowerShell ISE (x86) %SystemRoot%\syswow64\WindowsPowerShell\v1.0\powershell_ise.exe
+Windows PowerShell ISE powershell_ise.exe
+Windows PowerShell powershell.exe
+Windows Sandbox WindowsSandbox.exe
+Windows Security explorer.exe ms-settings:windowsdefender
+Windows Settings explorer.exe ms-settings:
+Windows Software Development Kit sdksetup.exe
+Windows Tools / Administrative Tools control.exe admintools
+Windows Update explorer.exe ms-settings:windowsupdate
+Windows Update History explorer.exe ms-settings:windowsupdate-history
+Windows Version winver.exe
+WMI Control wmimgmt.msc
+YouTube Music "C:\Program Files\Google\Chrome\Application\chrome.exe" --app=https://music.youtube.com
+YouTube "C:\Program Files\Google\Chrome\Application\chrome.exe" --app=https://www.youtube.com
+
+1. DEEP TROUBLESHOOTING & DIAGNOSTICS
+dcomcnfg.exe - Component Services / DCOM Config (DCOM security & permissions)
+dxcpl.exe - DirectX Control Panel (Force Direct3D feature levels for legacy apps)
+mmsys.cpl ,1 - Sound Recording Tab (Opens directly to Recording devices instead of Playback)
+mmsys.cpl ,2 - Sound Sounds Tab (Opens directly to System Sounds scheme)
+sdclt.exe - Windows Backup and Restore (Legacy Windows 7 backup utility)
+
+2. SYSTEM SECURITY & CREDENTIALS
+keymgr.dll - Stored User Names and Passwords (Legacy Windows XP-style Credential Vault)
+syskey.exe - SAM Database Security (Historical/Legacy local account protection interface)
+certlm.msc - Certificates Local Computer (Opens Machine certificates instead of Current User)
+
+3. NETWORK & ACCESSIBILITY
+netsh.exe - Network Shell (Command-line network interface script utility)
+dialer.exe - Phone Dialer (Legacy TAPI Windows phone dialer interface)
+rasphone.exe - Remote Access Phonebook (Direct VPN/Dial-up connection manager)
+accwiz.exe - Accessibility Wizard (Legacy Accessibility Configuration Wizard)
+
+4. DISK & PERFORMANCE
+chkdsk.exe - Check Disk Utility (Low-level drive sector inspection tool)
+fsutil.exe - File System Utility (Bypass drive flags, trim management, NTFS queries)
+reagentc.exe - Windows Recovery Environment Tool (Configure WinRE recovery partition)
